@@ -5,7 +5,7 @@
 	:load
 		cls
 			set app=YTDL Utilities
-			set ver=2.0
+			set ver=2.0.1
 			set e1=ERROR 1 - INVALID NUMBER OR NOT A NUMBER
 			set e2=false
 			title %app% %ver%
@@ -251,7 +251,7 @@
 					echo miamunson@hotmail.com
 					echo ----------
 					echo Version %ver%
-					echo 2023-01-17
+					echo 2023-03-04
 					echo ----------
 					echo %app% %ver%
 						pause
