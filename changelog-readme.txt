@@ -1,3 +1,8 @@
+VERSION 2.0.1 -
+ - YT-DLP updated to fix an issue with YT-DLP that would say "Unable to extract uploader id"
+
+
+VERSION 2.0 -
 Major changes: 
 - Version bumped to 2.0
 - Switched backend to yt-dlp, significantly more efficient than youtube-dl
