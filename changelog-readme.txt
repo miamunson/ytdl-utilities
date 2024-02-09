@@ -1,3 +1,6 @@
+VERSION 2.0.2 -
+ - YT-DLP updated
+
 VERSION 2.0.1 -
  - YT-DLP updated to fix an issue with YT-DLP that would say "Unable to extract uploader id"
 

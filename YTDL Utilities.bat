@@ -5,7 +5,7 @@
 	:load
 		cls
 			set app=YTDL Utilities
-			set ver=2.0.1
+			set ver=2.0.2
 			set e1=ERROR 1 - INVALID NUMBER OR NOT A NUMBER
 			set e2=false
 			title %app% %ver%
@@ -263,8 +263,8 @@
 
 			:error-ytdlp
 			echo ERROR: yt-dlp.exe not found. Make sure yt-dlp.exe is in the same directory as %app%.bat
-			echo If yt-dlp.exe is missing, you can download it from https://github.com/yt-dlp/yt-dlp/releases/tag/2023.01.06
-			echo As a note, %app%.bat is only tested with verion 2023.01.06 of yt-dlp. Other versions might not work as intended
+			echo If yt-dlp.exe is missing, you can download it from https://github.com/yt-dlp/yt-dlp/releases/tag/2023.12.30
+			echo As a note, %app%.bat is only tested with verion 2023.12.30 of yt-dlp. Other versions might not work as intended
 			pause
 			goto :EOF
 
